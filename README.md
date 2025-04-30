@@ -30,9 +30,9 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 ## App Brainstorming (Step 4)
 
 Spotify
-    - Creating different playlist 
-    - Shufle mode of music in playlist 
-    - Give new music suggestion based on your music taste
+- Creating different playlist 
+- Shufle mode of music in playlist 
+- Give new music suggestion based on your music taste
 
 YouTube
     - Can scan through videos before completely watching
