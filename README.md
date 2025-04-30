@@ -29,6 +29,28 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
 
 ## App Brainstorming (Step 4)
 
+Spotify
+    - Creating different playlist 
+    - Shufle mode of music in playlist 
+    - Give new music suggestion based on your music taste
+
+YouTube
+    - Can scan through videos before completely watching
+    - Can generate captions for videos
+    - Provide videos based on your preference
+    
+Meet up
+    - Provide a list of activities to do in your area
+    - Show a map of where the activities are located
+    - Give real time schedule and update of activities
+
+App idea
+An app that helps to naviguate through a city, neighborhood, 
+place or town and help with parking. The feature that would be
+good to implement are a real-time map, street density status, 
+street sign parking rules, and real-time communication. 
+
+
 ## Notes
 
 Describe any challenges encountered while building the app.
