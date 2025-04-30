@@ -35,14 +35,14 @@ Spotify
 - Give new music suggestion based on your music taste
 
 YouTube
-    - Can scan through videos before completely watching
-    - Can generate captions for videos
-    - Provide videos based on your preference
+- Can scan through videos before completely watching
+- Can generate captions for videos
+- Provide videos based on your preference
     
 Meet up
-    - Provide a list of activities to do in your area
-    - Show a map of where the activities are located
-    - Give real time schedule and update of activities
+- Provide a list of activities to do in your area
+- Show a map of where the activities are located
+- Give real time schedule and update of activities
 
 App idea
 An app that helps to naviguate through a city, neighborhood, 
