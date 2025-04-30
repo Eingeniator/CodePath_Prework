@@ -45,10 +45,10 @@ Meet up
 - Give real time schedule and update of activities
 
 App idea
-An app that helps to naviguate through a city, neighborhood, 
-place or town and help with parking. The feature that would be
-good to implement are a real-time map, street density status, 
-street sign parking rules, and real-time communication. 
+- An app that helps to naviguate through a city, neighborhood, 
+  place or town and help with parking. The feature that would be
+  good to implement are a real-time map, street density status, 
+  street sign parking rules, and real-time communication. 
 
 
 ## Notes
